@@ -1,0 +1,12 @@
+/home/debreker/dev/prive/library/Library.Service/bin/Debug/netstandard2.0/Library.Service.deps.json
+/home/debreker/dev/prive/library/Library.Service/bin/Debug/netstandard2.0/Library.Service.dll
+/home/debreker/dev/prive/library/Library.Service/bin/Debug/netstandard2.0/Library.Service.pdb
+/home/debreker/dev/prive/library/Library.Service/bin/Debug/netstandard2.0/Library.Data.dll
+/home/debreker/dev/prive/library/Library.Service/bin/Debug/netstandard2.0/Library.Data.pdb
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.csprojAssemblyReference.cache
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.csproj.CoreCompileInputs.cache
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.AssemblyInfoInputs.cache
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.AssemblyInfo.cs
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.csproj.CopyComplete
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.dll
+/home/debreker/dev/prive/library/Library.Service/obj/Debug/netstandard2.0/Library.Service.pdb

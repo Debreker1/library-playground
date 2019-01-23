@@ -1,0 +1,9 @@
+/home/debreker/dev/prive/library/Library.Data/bin/Debug/netstandard2.0/Library.Data.deps.json
+/home/debreker/dev/prive/library/Library.Data/bin/Debug/netstandard2.0/Library.Data.dll
+/home/debreker/dev/prive/library/Library.Data/bin/Debug/netstandard2.0/Library.Data.pdb
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.csprojAssemblyReference.cache
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.csproj.CoreCompileInputs.cache
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.AssemblyInfoInputs.cache
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.AssemblyInfo.cs
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.dll
+/home/debreker/dev/prive/library/Library.Data/obj/Debug/netstandard2.0/Library.Data.pdb

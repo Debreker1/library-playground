@@ -1,0 +1,16 @@
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.csprojAssemblyReference.cache
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.csproj.CoreCompileInputs.cache
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.AssemblyInfoInputs.cache
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.AssemblyInfo.cs
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Console.deps.json
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Console.runtimeconfig.json
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Console.runtimeconfig.dev.json
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Console.dll
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Console.pdb
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Data.dll
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Service.dll
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Service.pdb
+/home/debreker/dev/prive/library/Library.Console/bin/Debug/netcoreapp2.2/Library.Data.pdb
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.csproj.CopyComplete
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.dll
+/home/debreker/dev/prive/library/Library.Console/obj/Debug/netcoreapp2.2/Library.Console.pdb

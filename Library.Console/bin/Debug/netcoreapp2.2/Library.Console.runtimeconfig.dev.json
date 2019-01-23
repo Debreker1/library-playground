@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/debreker/.dotnet/store/|arch|/|tfm|",
+      "/home/debreker/.nuget/packages"
+    ]
+  }
+}
